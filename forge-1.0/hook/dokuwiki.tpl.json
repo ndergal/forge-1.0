@@ -1,0 +1,5 @@
+{
+"event_name": "project_create",
+"projet": "$NAMEPRO",
+"description": "$DESCRIPTION"
+}

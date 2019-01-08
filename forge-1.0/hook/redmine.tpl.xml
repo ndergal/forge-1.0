@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1 ?>
+<project> 
+	<id>$IDPRO</id> 
+	<name>$NAMEPRO</name> 
+	<identifier>$NAMEPRO</identifier> 
+	<description>$DESCRIPTION</description> 
+	<status>1</status> 
+</project> 
